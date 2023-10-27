@@ -104,11 +104,11 @@ uglyURLs = false
     # Motto or introduction
     motto = "慎独"
     # Avatar
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = " "
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = " "
     # Twitter
-    twitter = "tradingirl67"
+    twitter = "@tradingirl67"
 
 # Related content
 [related]
