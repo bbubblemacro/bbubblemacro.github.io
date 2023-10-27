@@ -106,7 +106,7 @@ uglyURLs = false
     # Avatar
     avatar = " "
     # Personal website, default: baseURL
-    website = " "
+    website = "https://twitter.com/tradingirl67 "
     # Twitter
     twitter = "tradingirl67"
 
