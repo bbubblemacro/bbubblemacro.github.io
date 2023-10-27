@@ -108,7 +108,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = " "
     # Twitter
-    twitter = "@tradingirl67"
+    twitter = "tradingirl67"
 
 # Related content
 [related]
@@ -367,7 +367,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "tradingirl67"
     # Note: used for Twitter Cards
 
 
