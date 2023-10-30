@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://bbubblemacro.github.io/"
+baseURL = "https://bbubble.top/"
 title = "BBubble"
 languageCode = "en"
 hasCJKLanguage = true
