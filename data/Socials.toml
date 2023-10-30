@@ -14,7 +14,7 @@
 
 [[socials]]
     id = "email"
-    url = "458872407@qq.com"
+    url = "mailto:458872407@qq.com"
     icon = "envelope"
     title = "Email"
     weight = 2
